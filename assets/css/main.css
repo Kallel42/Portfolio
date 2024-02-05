@@ -3321,5 +3321,6 @@ footer a{
 .Spark{
 	display:inline;
 	color:red;
-	border:2px solid white;
+	-webkit-text-stroke-width: 1.5px;
+        -webkit-text-stroke-color: white;
 }
