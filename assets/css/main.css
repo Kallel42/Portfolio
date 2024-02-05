@@ -3319,5 +3319,6 @@ footer a{
 	height: 190px;
 }
 .Spark{
+	display:inline;
 	color:red;
 }
