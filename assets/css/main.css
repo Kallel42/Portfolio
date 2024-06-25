@@ -3270,14 +3270,7 @@ input, select, textarea {
 	padding-top:10px;
 }
 
-#three img{
-	border-right : 1px solid gray;
-	border-radius:15px 0 0 15px ;
-	width: 200px;
-	margin-right: 15px;
-	height: 200px;
-	padding: 10px;
-}
+
 #three ul{
 	padding-top: 0;
 	margin: 0;
