@@ -3317,6 +3317,17 @@ footer a{
 	text-shadow: 1px 0 #fff, -1px 0 #fff, 0 1px #fff, 0 -1px #fff,
 		1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
 }
-.Medicacom2{
-	font-size:80%;
+
+#three img{
+	border-right : 1px solid gray;
+	border-radius:15px 0 0 15px ;
+	width: 200px;
+	margin-right: 15px;
+	height: 200px;
+	padding: 10px;
+}
+
+.imgSpark{
+	width:200px;
+	height:200px
 }
