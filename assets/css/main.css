@@ -3349,11 +3349,14 @@ height:150px
 	height:200px
 }
 
-header {
+.innerCertif {
   display: flex;
   justify-content: center; /* centre horizontalement */
-  align-items: center;      /* centre verticalement */
-  flex-direction: column;   /* si tu veux que les autres éléments restent au-dessus/en dessous */
+  margin-top: 20px; /* espace au-dessus pour respirer */
+}
+
+.imgCertif {
+  width: 150px;
 }
 
 .innerCertif {
