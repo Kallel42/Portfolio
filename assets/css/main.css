@@ -3323,13 +3323,13 @@ footer a{
 }
 
 .imgCertif {
-  width: 300px;
-height:300px
+  width: 200px;
+height:200px
 }
 #header .image.certif {
 			margin: 0 0 1em 0;
-			width: 300px;
-			height: 300px
+			width: 200px;
+			height: 200px
 		}
 
 #three img{
@@ -3347,4 +3347,16 @@ height:300px
 .imgSpark{
 	width:200px;
 	height:200px
+}
+
+header {
+  position: relative;
+  height: 100px;
+}
+
+.innerCertif {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
