@@ -3324,7 +3324,13 @@ footer a{
 
 .imgCertif {
   width: 300px;
+height:300px
 }
+#header .image.certif {
+			margin: 0 0 1em 0;
+			width: 300px;
+			height: 300px
+		}
 
 #three img{
 	border-radius:15px 0 0 15px ;
