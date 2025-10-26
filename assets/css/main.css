@@ -2642,6 +2642,10 @@ input, select, textarea {
 			width: 6.25em;
 		}
 
+#header .image.certif {
+			width: 10.25em;
+		}
+
 /* Footer */
 
 	#footer .icons {
@@ -3313,7 +3317,7 @@ footer a{
 }
 .Spark{
 	display:inline;
-	color:red;
+	color:blue;
 	text-shadow: 1px 0 #fff, -1px 0 #fff, 0 1px #fff, 0 -1px #fff,
 		1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
 }
