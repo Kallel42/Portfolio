@@ -3350,13 +3350,12 @@ height:150px
 }
 
 header {
-  position: relative;
-  height: 100px;
+  display: flex;
+  justify-content: center; /* centre horizontalement */
+  align-items: center;      /* centre verticalement */
+  flex-direction: column;   /* si tu veux que les autres éléments restent au-dessus/en dessous */
 }
 
 .innerCertif {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
+  align-self: center;
 }
