@@ -3322,6 +3322,10 @@ footer a{
 		1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
 }
 
+.imgCertif {
+  width: 300px;
+}
+
 #three img{
 	border-radius:15px 0 0 15px ;
 	width: 200px;
